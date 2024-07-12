@@ -1,3 +1,5 @@
+# Youtube Link : https://youtu.be/a8LxuW61Bbc
+
 # InsightBot AI 🤖
 
 InsightBot AI is an adaptive recommendation chatbot that uses Retrieval-Augmented Generation (RAG) and a vector database. The project allows users to upload PDF and JSON files, process the text, and ask questions based on the content of the files.
